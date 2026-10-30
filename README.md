@@ -1,4 +1,4 @@
-# Hi, I'm Joaquin Cosentino! 👋 
+# Hi, I'm Joaquin! 👋 
 
 I am a Software Developer, Machine Learning Engineer, and Data Analyst based in Argentina, currently pursuing a degree as a Programming Technician at UTN. I specialize in backend development, end-to-end ML pipelines, and data-driven solutions.
 
@@ -7,7 +7,7 @@ I am a Software Developer, Machine Learning Engineer, and Data Analyst based in 
 - 🧠 **Former Machine Learning Engineer** at Anyone AI, where I architected scalable web-service APIs on AWS and deployed ML models.
 - 💻 Experienced in building automated ELT data pipelines, deploying computer vision algorithms, and developing robust backends with Python (FastAPI/Django).
 - 🎓 Programming Technician student at UTN (Facultad Regional Mendoza).
-- 🏋️‍♂️ When I'm not coding, you can find me weightlifting, baking high-protein snacks, or playing World of Tanks.
+- 🏋️‍♂️ When I'm not coding, you can find me weightlifting and baking high-protein snacks.
 
 ### 🛠️ Tech Stack & Tools
 
