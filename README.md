@@ -32,9 +32,6 @@ I am a Software Developer, Machine Learning Engineer, and Data Analyst based in 
 
 *(Additional: Scikit-learn, Keras, Kubernetes, Power BI, GitHub Actions)*
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BLNTTRP&layout=compact&theme=transparent&hide_border=true&title_color=0077B5)
-
 ### 🔭 Professional Experience & Projects
 - **E-Commerce Image Classification (Anyone AI):** Architected and deployed a computer vision pipeline with 82% accuracy, containerized with Docker and served via AWS APIs.
 - **Credit Risk Assessment Models:** Trained supervised ML models (XGBoost, LightGBM) on 350,000+ records, achieving a ROC AUC > 0.72 to optimize loan default predictions.
