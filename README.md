@@ -29,6 +29,7 @@ I am a Software Developer, Machine Learning Engineer, and Data Analyst based in 
 **Databases & Frontend**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 *(Additional: Scikit-learn, Keras, Kubernetes, Power BI, GitHub Actions)*
 
 ### 📊 GitHub Stats
